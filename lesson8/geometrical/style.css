@@ -1,0 +1,34 @@
+div {
+    margin: 50px;
+}
+
+.rectangle {
+    background-color: forestgreen;
+    width: 100px;
+    height: 50px;
+    border-radius: 16px;
+}
+
+.ellipse {
+    margin-bottom: 50px;
+    background-color: darkmagenta;
+    width: 100px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.circle {
+    margin-bottom: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: aquamarine
+}
+
+.triangle {
+    box-sizing: border-box;
+    border: 50px solid transparent;
+    border-top-color: brown;
+    width: 100px;
+}
+
