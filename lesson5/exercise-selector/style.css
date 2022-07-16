@@ -2,7 +2,8 @@ a[target="_blank"] {
     color: green;
 }
 
-ul {
+ul,
+ol {
     background-color: yellow;
 }
 
