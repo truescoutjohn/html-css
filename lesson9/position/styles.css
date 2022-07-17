@@ -29,9 +29,8 @@
 
 .head {
     position: relative;
-    top: 50vh;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: calc(50vh - 100px);
+    left: calc(50% - 100px);
     width: 200px;
     height: 200px;
     background-color: aquamarine;
