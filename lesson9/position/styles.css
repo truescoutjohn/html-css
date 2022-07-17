@@ -18,7 +18,7 @@
 .nav-item {
     margin-left: 16px;
     float: left;
-    line-height: 37px;
+    line-height: 40px;
     color: white;
 }
 
@@ -29,8 +29,8 @@
 
 .head {
     position: relative;
-    top: calc(50%);
-    left: calc(50%);
+    top: 50vw;
+    left: 50vh;
     width: 200px;
     height: 200px;
     background-color: aquamarine;
