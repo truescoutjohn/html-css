@@ -8,6 +8,7 @@ h1 {
 
 .articles-list {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .article {
