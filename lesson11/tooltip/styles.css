@@ -6,11 +6,11 @@
 }
 
 .text:hover .tooltip {
-    display: block;
+    visibility: visible;
 }
 
 .tooltip {
-    display: none;
+    display: block;
     position: absolute;
     left: 0;
     bottom: -40px;
@@ -18,5 +18,6 @@
     background-color: grey;
     color: white;
     border-radius: 4px;
+    visibility: hidden;
 }
 
