@@ -6,7 +6,7 @@
 .text {
     display: inline-block;
     position: relative;
-    margin: 16px;
+    margin: 17px 16px;
     border-bottom: 1px dotted black;
 }
 
@@ -19,7 +19,7 @@
     position: absolute;
     left: 0;
     bottom: -40px;
-    padding: 12px 8px;
+    padding: 8px;
     background-color: grey;
     color: white;
     border-radius: 4px;
