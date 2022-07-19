@@ -1,11 +1,14 @@
 * {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
-    line-height: 28px;
 }
 
 section {
     margin: 32px;
+}
+
+p {
+    line-height: 28px;
 }
 
 h1 {
