@@ -1,0 +1,16 @@
+.list {
+    list-style-type: none;
+    font-size: 1.5em;
+}
+
+.list li:last-of-type {
+    text-decoration: green underline;
+}
+
+.list li:nth-of-type(2) {
+    text-decoration: line-through;
+}
+
+.list li:first-of-type {
+    text-decoration: red overline;
+}
