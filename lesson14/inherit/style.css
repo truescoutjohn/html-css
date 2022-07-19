@@ -8,8 +8,8 @@ body {
 
 .properties-list {
     list-style-type: none;
+    margin-top: 17px;
 }
-
 
 .properties-list__item {
     padding: 8px;
