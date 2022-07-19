@@ -14,5 +14,5 @@ body {
 }
 
 .properties-list__item:first-of-type {
-    padding-top: 0px;
+    padding-top: 5px;
 }
