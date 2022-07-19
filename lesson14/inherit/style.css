@@ -12,3 +12,7 @@ body {
     font-size: 24px;
     line-height: 32px;
 }
+
+.properties-list__item:first-of-type {
+    padding-top: 0px;
+}
