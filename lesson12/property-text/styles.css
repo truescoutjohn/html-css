@@ -5,9 +5,9 @@
 }
 
 h1 {
-    letter-spacing: 20px;
+    /* letter-spacing: 20px; */
     text-align: center;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 p {
