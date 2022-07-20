@@ -1,6 +1,7 @@
 .image-container {
     position: relative;
     text-align: center;
+    max-height: 333px;
 }
 
 .image-button {
