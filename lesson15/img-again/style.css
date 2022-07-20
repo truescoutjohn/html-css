@@ -1,13 +1,12 @@
 .image-container {
     position: relative;
-    /* height: 333px; */
     text-align: center;
 }
 
 .image-button {
     position: absolute;
     left: calc(50% - 100px);
-    top: 141.5px;
+    top: calc(50% - 25px);
     width: 200px;
     height: 50px;
     text-align: center;
