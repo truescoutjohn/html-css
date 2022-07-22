@@ -16,9 +16,9 @@ th {
     text-align: right;
 }
 
-/* tr {
+tr {
     line-height: 40px;
-} */
+}
 
 div {
     overflow: auto;
@@ -36,8 +36,4 @@ tbody > tr:hover {
 thead > tr {
     background-color: aqua;
     font-weight: 900;
-}
-
-caption {
-    margin-bottom: 8px;
 }
