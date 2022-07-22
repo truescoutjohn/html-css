@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    margin: 16px;
+    width: 500px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td,
+th {
+    border: 1px solid black;
+    padding: 4px;
+    text-align: right;
+}
+
+tr {
+    line-height: 40px;
+}
+
+div {
+    overflow: auto;
+}
+
+tbody > tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+tbody > tr:hover {
+    background-color: #aaa;
+    color: #fff;
+}
+
+thead > tr {
+    background-color: aqua;
+    font-weight: 900;
+}
+
+caption {
+    margin-bottom: 8px;
+}
