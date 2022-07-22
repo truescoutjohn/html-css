@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    margin: 16px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+
+}
+
+td:not(tr:first-of-type td, td:first-of-type, td:last-of-type, tr:last-of-type td) {
+    border: 1px solid black;
+}
+
+tr:nth-of-type(2n+2):not(tr:last-of-type) td:nth-of-type(2n+3),
+tr:nth-of-type(2n+3):not(tr:last-of-type) td:nth-of-type(2n):not(td:last-of-type) {
+    background-color: #000;
+}
