@@ -13,7 +13,8 @@ td,
 th {
     border: 1px solid black;
     text-align: right;
-    line-height: 40px;
+    padding: 4px;
+    height: 40px;
 }
 
 div {
