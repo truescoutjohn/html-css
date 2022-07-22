@@ -35,6 +35,10 @@ thead > tr {
     font-weight: 900;
 }
 
+tfoot > tr {
+    font-weight: 900;
+}
+
 caption {
     margin-bottom: 8px;
 }
