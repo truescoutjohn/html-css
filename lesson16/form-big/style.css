@@ -17,3 +17,11 @@ button {
 .languages {
     padding: 8px;
 }
+
+input[type="text"] {
+    margin-bottom: 10px !important;
+}
+
+input[type="checkbox"] {
+    margin-bottom: 15px !important;
+}
