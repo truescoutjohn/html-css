@@ -17,11 +17,3 @@ button {
 .languages {
     margin: 8px;
 }
-
-input[type="text"] {
-    margin-bottom: 9px !important;
-}
-
-input[type="checkbox"]:first-of-type {
-    margin-bottom: 13px !important;
-}
