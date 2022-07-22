@@ -37,3 +37,7 @@ thead > tr {
     background-color: aqua;
     font-weight: 900;
 }
+
+caption {
+    margin-bottom: 8px;
+}
