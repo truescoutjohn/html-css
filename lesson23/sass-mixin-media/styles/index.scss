@@ -13,9 +13,10 @@ body {
 
 .container {
     display: flex;
-
+    flex-direction: column;
+    
     @include landscape-up {
-        flex-direction: column;
+        flex-direction: row;
     }
 }
 

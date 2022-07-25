@@ -11,10 +11,11 @@ body {
 
 .container {
   display: flex;
+  flex-direction: column;
 }
 @media screen and (orientation: landscape) {
   .container {
-    flex-direction: column;
+    flex-direction: row;
   }
 }
 
